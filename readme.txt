@@ -1,0 +1,1 @@
+A text editor for viewing, editing and saving .txt files; with cut/copy/paste functionality and a search panel.
